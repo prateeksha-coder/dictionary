@@ -28,3 +28,6 @@ for key,value in student_data.items():
         result[key] = value
 
 print(result)
+
+
+#d1={1:{'name':'sara','age':6},2:{'name':'jeff','age':7},3:{'name':'alia','age':9}}
